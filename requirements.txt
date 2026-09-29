@@ -1,0 +1,6 @@
+# Python 3.10+ — the score (music/) and the data tools (tools/)
+numpy
+scipy
+pillow
+opencv-python-headless
+matplotlib

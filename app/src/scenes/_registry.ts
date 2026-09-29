@@ -1,0 +1,12 @@
+import stone from './stone';
+import bow from './bow';
+import metal from './metal';
+import powder from './powder';
+import guns from './guns';
+import wars from './wars';
+import modern from './modern';
+import arsenal from './arsenal';
+import blast from './blast';
+import finale from './finale';
+import type { SceneClass } from '../engine/scene';
+export const REG: Record<string, SceneClass> = { stone: stone as any, bow: bow as any, metal: metal as any, powder: powder as any, guns: guns as any, wars: wars as any, modern: modern as any, arsenal: arsenal as any, blast: blast as any, finale: finale as any, };

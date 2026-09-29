@@ -1,0 +1,8 @@
+node_modules/
+app/dist/
+out/
+vendor/
+music/out/
+__pycache__/
+*.pyc
+.DS_Store
