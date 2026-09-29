@@ -4,8 +4,6 @@
 The picture is rendered with WebGL (three.js), and the score is synthesised in Python. There is no footage, no samples and no stock assets.
 Every cut, fill and flash is timed to the score.
 
-[繁體中文說明 → README.zh-TW.md](README.zh-TW.md)
-
 > ▶ **Watch:** see the latest [Release](../../releases) (1080p60 video attached).
 
 By **[jasontzeng123](https://github.com/jasontzeng123)**. The rendering engine is forked from
@@ -155,6 +153,6 @@ The numbers are rounded, widely cited estimates, as stated in the film. Check th
 - **Fonts:** Archivo, IBM Plex Mono and Cormorant under the SIL Open Font License (`app/public/fonts/OFL.txt`).
 - **Map data:**
   - [Natural Earth](https://www.naturalearthdata.com) (public domain).
-  - Japanese prefecture boundaries: 「国土数値情報（行政区域データ）」国土交通省, via [niiyz/JapanCityGeoJson](https://github.com/niiyz/JapanCityGeoJson), processed.
+  - Japanese prefecture boundaries: source: National Land Numerical Information (Administrative Boundaries), Ministry of Land, Infrastructure, Transport and Tourism of Japan (MLIT), via [niiyz/JapanCityGeoJson](https://github.com/niiyz/JapanCityGeoJson), processed.
 
 See [CREDITS.md](CREDITS.md) for details.

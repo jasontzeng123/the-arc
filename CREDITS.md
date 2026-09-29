@@ -19,8 +19,8 @@
 - [Natural Earth](https://www.naturalearthdata.com) — public domain. Coastlines 1:110m, land 1:50m
   (`data/globe.json`), admin-1 boundaries 1:10m (`data/hiroshima.json`).
 - Japanese prefecture boundaries in `data/hiroshima.json`:
-  出典：「国土数値情報（行政区域データ）」（国土交通省）
-  (https://nlftp.mlit.go.jp/ksj/) を加工して作成 — converted to GeoJSON by
+  source: National Land Numerical Information (Administrative Boundaries), Ministry of Land, Infrastructure,
+  Transport and Tourism of Japan (MLIT) (https://nlftp.mlit.go.jp/ksj/), processed — converted to GeoJSON by
   [niiyz/JapanCityGeoJson](https://github.com/niiyz/JapanCityGeoJson); dissolved to prefecture outlines here.
 
 ## Generated / original
